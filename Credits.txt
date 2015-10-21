@@ -1,1 +1,2 @@
 Mark Gray <mark@fsharp.tv> @MarkRGray
+Brice Fernandes <brice@fsharp.tv> @fractallambda
