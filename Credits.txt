@@ -1,2 +1,3 @@
 Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
+Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
