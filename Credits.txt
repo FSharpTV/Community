@@ -3,5 +3,5 @@ Brice Fernandes <brice@fsharp.tv> @fractallambda
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
 john kennerley <john.kennerley@gmail.com> @jkennerley https://github.com/jkennerley
 Mickael Metesreau <mickael.metesreau@gmail.com> @MiKaDo_O
-
+Víctor Manuel Salgado González <cienciaccesible@gmail.com> @CienciAccesible
 
