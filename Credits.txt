@@ -1,7 +1,8 @@
-Mark Gray <mark@fsharp.tv> @MarkRGray
+﻿Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
 john kennerley <john.kennerley@gmail.com> @jkennerley https://github.com/jkennerley
 Mickael Metesreau <mickael.metesreau@gmail.com> @MiKaDo_O
 Víctor Manuel Salgado González <cienciaccesible@gmail.com> @CienciAccesible
 Bob Morrison <bob.morrison@imperial.nhs.uk> @BobM42
+julian hatwell @julianhatwell
