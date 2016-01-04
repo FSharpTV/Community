@@ -1,5 +1,6 @@
 ﻿Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
+Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
 john kennerley <john.kennerley@gmail.com> @jkennerley https://github.com/jkennerley
 Mickael Metesreau <mickael.metesreau@gmail.com> @MiKaDo_O
