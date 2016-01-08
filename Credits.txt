@@ -1,4 +1,4 @@
-﻿Mark Gray <mark@fsharp.tv> @MarkRGray
+Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -12,3 +12,4 @@ Rajko Winkler @rwi
 Diner Ismail @DinerIsmail
 Mike Janger <inchingforward@gmail.com> @inchingfwd
 Andre Dublin <81dublin@gmail.com> @AndreDublin
+Enos Recanati <enos.recanati@gmail.com> @enosrecanati
