@@ -1,4 +1,4 @@
-﻿Mark Gray <mark@fsharp.tv> @MarkRGray
+Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -18,3 +18,4 @@ Narongrit Sakulchapornlerts @nJakajee
 Musa Jahanghir <musa.jahanghir@Live.com>
 Ron Cothren <rcothren@gmail.com>
 Jorge Chacon	<globales1@hotmail.com> @windpeoples
+Christian Perez < @bornagainfatkid > F#!
