@@ -20,3 +20,4 @@ Ron Cothren <rcothren@gmail.com>
 Jorge Chacon	<globales1@hotmail.com> @windpeoples
 Christian Perez < @bornagainfatkid > F#!
 J.D. Williams <jdwill917@gmail.com>
+Delmer Johnson @DelmerJohnson
