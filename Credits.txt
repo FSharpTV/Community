@@ -1,4 +1,4 @@
-Mark Gray <mark@fsharp.tv> @MarkRGray
+﻿Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -22,3 +22,4 @@ Christian Perez < @bornagainfatkid > F#!
 J.D. Williams <jdwill917@gmail.com>
 Delmer Johnson @DelmerJohnson
 PetarR <fakemail@gmail.com>
+ajaxuk <ajaxukuk@yahoo.co.uk>
