@@ -25,3 +25,4 @@ PetarR <fakemail@gmail.com>
 ajaxuk <ajaxukuk@yahoo.co.uk>
 EngineerSpock <engineerspock@outlook.com> @EngineerSpock
 Emmanuel Chevallier <emmanuel@apy.care>
+S. Lake <SnLake@users.noreply.github.com>
