@@ -1,4 +1,4 @@
-﻿Mark Gray <mark@fsharp.tv> @MarkRGray
+Mark Gray <mark@fsharp.tv> @MarkRGray
 Brice Fernandes <brice@fsharp.tv> @fractallambda
 Jeff Heon <jfheon@gmail.com> @jeffheon
 Pierre Irrmann <pierre.irrmann@gmail.com> @pirrmann
@@ -26,3 +26,4 @@ ajaxuk <ajaxukuk@yahoo.co.uk>
 EngineerSpock <engineerspock@outlook.com> @EngineerSpock
 Emmanuel Chevallier <emmanuel@apy.care>
 S. Lake <SnLake@users.noreply.github.com>
+S. Posselt <fakemail2@gmail.com> 
