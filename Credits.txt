@@ -26,4 +26,5 @@ ajaxuk <ajaxukuk@yahoo.co.uk>
 EngineerSpock <engineerspock@outlook.com> @EngineerSpock
 Emmanuel Chevallier <emmanuel@apy.care>
 S. Lake <SnLake@users.noreply.github.com>
-S. Posselt <fakemail2@gmail.com> 
+S. Posselt <fakemail2@gmail.com>
+JWiner <jwiner01@gmail.com>
