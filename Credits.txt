@@ -30,4 +30,4 @@ S. Posselt <fakemail2@gmail.com>
 JWiner <jwiner01@gmail.com>
 kwhitefoot <kwhitefoot@hotmail.com>
 Ralph S. Mouse <whomovedmycheese@gmail.com>
-Change T. Credit >change.t@credit.com? @changeTC
+Change T. Credit <change.t@credit.com> @changeTC
